@@ -1,4 +1,13 @@
-@import "C:\\Users\\kg\\code\\gueney.org\\node_modules\\bulma\\bulma.sass";
+// @import "C:\\Users\\kg\\code\\gueney.org\\node_modules\\bulma\\bulma.sass";
+html,
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.title {
+  font-family: "Roboto Slab", sans-serif;
+}
+
 .site-title {
-    margin-bottom: 2em;
+  margin-bottom: 2em;
 }
