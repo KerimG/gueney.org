@@ -1,13 +1,28 @@
 // @import "C:\\Users\\kg\\code\\gueney.org\\node_modules\\bulma\\bulma.sass";
 html,
 body {
+  display: flex;
   font-family: "Roboto", sans-serif;
+  background-color: #383838;
+  color: #fffcf9;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
 
 .title {
   font-family: "Roboto Slab", sans-serif;
+  color: #f76262;
 }
 
 .site-title {
   margin-bottom: 2em;
+}
+
+.subtitle {
+  color: #fffcf9;
+}
+
+a {
+  color: #6a99e6;
 }
